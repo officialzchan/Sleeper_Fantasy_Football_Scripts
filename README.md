@@ -1,5 +1,5 @@
 # Sleeper_Fantasy_Football_Scripts
-Some scripts I wrote for my yearly FTA league
+Some scripts I wrote for my yearly fantasy league
 
 
 Assumes the existence of a "Main" account that exists (as a team owner, administrator, etc) in multiple leagues. These are the leagues the data will be pulled from. 
